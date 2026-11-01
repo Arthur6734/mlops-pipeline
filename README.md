@@ -52,4 +52,4 @@ git remote add origin https://github.com/Arthur6734/mlops-pipeline.git
 git push -u origin main
 ```
 
-O repositório deve ser **público** para que a correção automática funcione.
+
